@@ -5,6 +5,7 @@ public class GitTestMain {
 		// TODO Auto-generated method stub
 		System.out.println("This is a Git test.");
 		System.out.println("Made change after Github ReadMe.");
+		System.out.println("Create Brian branch.");
 	}
 
 }
