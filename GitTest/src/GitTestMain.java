@@ -10,7 +10,6 @@ public class GitTestMain {
 //		System.out.println("Merge Brian branch.");
 		System.out.println("Merge Master branch.");
 		System.out.println("Continue Master.");
-		System.out.println("Check");
 	}
 
 }
